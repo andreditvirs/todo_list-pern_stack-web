@@ -1,0 +1,5 @@
+# server folder
+server/db.js
+server/node_modules/*
+server/database.sql
+server/package-lock.json
